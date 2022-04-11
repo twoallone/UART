@@ -1,0 +1,11 @@
+*.cywrk.*
+*.cyprj.*
+Debug/
+Release/
+Export/
+Cortexm0p/
+Cortexm4/
+codegentemp/
+Generated_Source/
+
+
